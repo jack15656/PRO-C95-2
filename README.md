@@ -1,1 +1,2 @@
-# PRO-C95-2
+# MeanMedianMode
+solution 104
